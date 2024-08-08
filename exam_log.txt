@@ -1,0 +1,172 @@
+    1  pkg upgrade
+    2  exit
+    3  package install cmatrix
+    4  pkg install cmatrix
+    5  cmatrix
+    6  exit
+    7  package install proot-bistro
+    8  package install proot-distro
+    9  pkg install proot-distro
+   10  proot-distro install ubutu
+   11  wsl
+   12  proot-distro install ubuntu
+   13  proot-distro install ubutu
+   14  proot-distro install ubuntu
+   15  exit
+   16  wsl
+   17  proot-distro ubuntu login
+   18  proot-distro help
+   19  proot-distro login
+   20  exit
+   21  pkg update
+   22  pkg install mysql
+   23  sudo apt update
+   24  pkg install tsu
+   25  pkg update
+   26  apt list
+   27  exit
+   28  1
+   29  exit
+   30  cd link
+   31  apt update && apt upgrade -y
+   32  proot-distro login
+   33  proot-distro login ubuntu
+   34  pkg install git
+   35  git clone https://github.com/micac01/232311201-CRUZ.git
+   36  pkg install gh
+   37  gh auth login
+   38  https://github.com/micac01/232311201-CRUZ.git
+   39  git clone https://github.com/micac01/232311201-CRUZ.git
+   40  ls
+   41  cd 232311201-CRUZ
+   42  git clone https://github.com/micac01/232311201-CRUZ.git
+   43  gh aut
+   44  git clone https://github.com/micac01/232311201-CRUZ.git
+   45  gh auth login
+   46  pkg install gh
+   47  pkg update
+   48  apt upgrade
+   49  git clone https://github.com/micac01/232311201-CRUZ.git
+   50  gh auth login
+   51  git clone https://github.com/micac01/232311201-CRUZ.git
+   52  gh auth login
+   53  git clone https://github.com/micac01/232311201-CRUZ.git
+   54  gh auth login
+   55  eiv
+   56  exit
+   57  pkg install git
+   58  pkg install gh
+   59  git clone https://github.com/micac01/232311201-CRUZ.git
+   60  git status
+   61  ls
+   62  git clone http://github.com/micac01/232311201-CRUZ.git
+   63  git clone https://github.com/micac01/232311201-CRUZ.g
+   64  ls
+   65  exit
+   66  git clone https://github.com/micacruz01/232311201-CRUZ.git
+   67  git status
+   68  pkg install gh
+   69  apt update && apt upgrade -y
+   70  pkg install git
+   71  apt update && apt upgrade -y
+   72  git clone https://github.com/micacruz01/232311201-CRUZ.git
+   73  ls
+   74  cd 232311201-CRUZ
+   75  pkg install java
+   76  pkg install openjgk-17
+   77  pkg install openjdk-17
+   78  pkg search java
+   79  exit
+   80  pkg install openjdk-17
+   81  java
+   82  pkg install openjdk
+   83  apt update && apt upgrade -y
+   84  cd 232311201-CRUZ
+   85  java
+   86  pkg install openjdk
+   87  java
+   88  nano java
+   89  ls
+   90  helloword.java
+   91  javac helloworld.java
+   92  javac mica
+   93  git status
+   94  git add .
+   95  git commit -m "try"
+   96  git config --global user.email"micac0963@gmail.com"
+   97  git commit -m "try"
+   98  git config --global user.name "micacruz01"
+   99  git clone https://github.com/micacruz01/232311201-CRUZ.git
+  100  exit
+  101  pwd
+  102  ls
+  103  cd
+  104  cd repo
+  105  cd subdir
+  106  ch /project/my_repo
+  107  md /project/my_repo
+  108  mkdir /project/my_repo
+  109  cd
+  110  cd 232311201-CRUZ
+  111  mkdir linux_practice
+  112  mv linux_practice
+  113  notes.txt
+  114  echo notes.txf
+  115  touch notes.txt
+  116  ls
+  117  display notes.txt
+  118  echo "Hello, Linux" notes.txt
+  119  echo "This practical exam" notes
+  120  echo "This practical exam" notes.txt
+  121  cat notes.txt
+  122  head notes.txt
+  123  tail notes.txt
+  124  mkdir subdir
+  125  echo "This practical exam" notes.txt
+  126  head notes.txt
+  127  tail notes.txt
+  128  pwd
+  129  mkdir subdir
+  130  mkdir -p subdir/linux_practice
+  131  mv notes.txt
+  132  move notes.txt/subdir
+  133  exit
+  134  cd 232311201
+  135  cd 232311201-CRUZ
+  136  git init
+  137  ls
+  138  git add.
+  139  git add .
+  140  git commit "finalexam"
+  141  git commit -m "finalexam"
+  142  git config --global user.email "micac0963@gmail.com"
+  143  git commit -m "finalexam"
+  144  git branch -M main
+  145  git add origin https://github.com/micacruz01/232311201-CRUZ.git
+  146  git add main https://github.com/micacruz01/232311201-CRUZ.git
+  147  git remote add origin https://github.com/micacruz01/232311201-CRUZ.git
+  148  git .e
+  149  git remote add..
+  150  git remote add exam https://github.com/micacruz01/232311201-CRUZ.git
+  151  git push -u exam main
+  152  history
+  153  exit
+  154  cd 232311201-CRUZ
+  155  mkdir linux_practice
+  156  cd linux_practice
+  157  touch notes.txt
+  158  ls >> notes.txt
+  159  cat notes.txt
+  160  echo "Hello, Linux!" > notes.txt
+  161  echo "This is apractical exam." >> notes.txt
+  162  head -n 1 notes.txt
+  163  tail -n 1 notes.txt
+  164  mkdir subdir
+  165  mv notes.txt subdir
+  166  mv subdir practice_subdir
+  167  cp practice_subdir/notes.txt .
+  168  gh repo clone 
+  169  gh repo clone https://github.com/micacruz01/232311201-CRUZ.git
+  170  cd 232311201-CRUZ
+  171  git checkout -b finalexam
+  172  history > exam_log.txt
